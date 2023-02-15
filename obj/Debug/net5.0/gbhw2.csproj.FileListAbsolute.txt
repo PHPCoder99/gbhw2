@@ -1,0 +1,16 @@
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.exe
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.deps.json
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.runtimeconfig.json
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.runtimeconfig.dev.json
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.dll
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\ref\gbhw2.dll
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\bin\Debug\net5.0\gbhw2.pdb
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.csproj.AssemblyReference.cache
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.AssemblyInfoInputs.cache
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.AssemblyInfo.cs
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.csproj.CoreCompileInputs.cache
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.dll
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\ref\gbhw2.dll
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.pdb
+C:\Users\Zoya\Documents\geekbrains\introtoprogramminggb\gbhw2\obj\Debug\net5.0\gbhw2.genruntimeconfig.cache
